@@ -1,0 +1,4 @@
+#Mon Mar 18 14:26:35 BDT 2019
+base.0=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

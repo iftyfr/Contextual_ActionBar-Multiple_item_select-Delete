@@ -1,0 +1,7 @@
+#Mon Mar 18 14:26:35 BDT 2019
+base.0=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f4414c8ab6e6970b508d927b0276afe0a04fed3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f25ef5df1b841708019747a47aa8fd919f23174/classes.dex
+base.1=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f25ef5df1b841708019747a47aa8fd919f23174
+file.0=/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f4414c8ab6e6970b508d927b0276afe0a04fed3/classes.dex

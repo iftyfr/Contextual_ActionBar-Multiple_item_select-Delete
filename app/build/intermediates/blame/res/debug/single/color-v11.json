@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ifty/.android/build-cache/6aab9230d9c6431bc2224fca63d649b39c70a436/output/res/layout-v21/notification_action.xml"
+    }
+]

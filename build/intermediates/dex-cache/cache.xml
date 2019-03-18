@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f4414c8ab6e6970b508d927b0276afe0a04fed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="ee02659254aabf8baa95b1e957680c6d7b5d18fd">
+        <dex dex="/home/ifty/AndroidStudioProjects/CABExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f25ef5df1b841708019747a47aa8fd919f23174/classes.dex" />
+    </item>
+
+</items>
